@@ -4,7 +4,7 @@ module WebCo
     
     module PassiveAggressive
       
-      def acts_as_passive_agressive
+      def acts_as_passive_aggressive
         self.around_filter WebCo::ActsAs::PassiveAggressive::Filter
       end
             
