@@ -2,7 +2,7 @@
 
 Add a human feeling to your Rails app! Make it behave like someone that actually know how fun and cool it could be to interact with you for hours long!
 
-From the makers of [`acts_as_obsesive_compulsive`](http://github.com/webco/acts_as_obsessive_compulsive) and [`acts_as_bipolar`](http://github.com/webco/acts_as_bipolar).
+From the makers of [`acts_as_obsessive_compulsive`](http://github.com/webco/acts_as_obsessive_compulsive) and [`acts_as_bipolar`](http://github.com/webco/acts_as_bipolar).
 
 ## How to use it ##
 
@@ -10,15 +10,19 @@ So now, you're probably thinking "How can I use this awesome plugin". Ok, then. 
 
 Well, first this is a Rails plugin, so you'll have to install it just like any other plugin. Now, shall we do a thought experiment? Ok, let's pretend that, despite the fact that you're looking at a Rails plugin, you still don't have the slightest clue on how to do it.
 
-First, you run `script/plugin install git://github.com/webco/act_as_passive_aggressive.git`, in your application root.
+First, you run `script/plugin install git://github.com/webco/acts_as_passive_aggressive.git`, in your application root.
 
-Cleared the first step? Still following? Then don't. We're through here.
+Cleared the first step? Moving on.
+
+Add `acts_as_passive_aggressive` to every controller in your app.
+
+Still following? Then don't. We're through here.
 
 ## Running from command line ##
 
 Open irb and enter:
 
-`puts "act_as_passive_aggressive is a Rails plugin and don't run on command line "*10000`
+`puts "acts_as_passive_aggressive is a Rails plugin and don't run on command line "*10000`
 
 Read the output aloud. Repeat until you reach perfect enlightenment.
 
@@ -34,7 +38,11 @@ If you're feeling slighted, it can be a happy medium between letting the issue g
 
 You can't.
 
-### Licensing ###
+## Complaining ##
+
+You got some complaint heh? Express them on the [Wall of Wailing](http://github.com/webco/acts_as_passive_aggressive/wikis/wall-of-wailing). Feedback guaranteed.
+
+## Licensing ##
 
 DO WHAT THE HECK YOU WANT TO PUBLIC LICENSE
 Version 2, December 2004
