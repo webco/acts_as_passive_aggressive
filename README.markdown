@@ -1,8 +1,8 @@
-# act_as_passive_aggressive #
+# `acts_as_passive_aggressive` #
 
 Add a human feeling to your Rails app! Make it behave like someone that actually know how fun and cool it could be to interact with you for hours long!
 
-From the makers of [act_as_obsesive_compulsive]() and [act_as_bi_polar]().
+From the makers of [`acts_as_obsesive_compulsive`](http://github.com/webco/acts_as_obsessive_compulsive) and [`acts_as_bipolar`](http://github.com/webco/acts_as_bipolar).
 
 ## How to use it ##
 
@@ -24,7 +24,9 @@ Read the output aloud. Repeat until you reach perfect enlightenment.
 
 ## Justifying the plugin ##
 
-Contrary to popular thought, recent psychological research has shown that passive aggression can actually be a healthy alternative to aggressive aggression. If you're feeling slighted, it can be a happy medium between letting the issue go but feeling resentful and making your feelings known during a screaming match. If you're used to engaging in healthy interpersonal relations, this plugin is for you.
+Contrary to popular thought, recent psychological research has shown that passive aggression can actually be a healthy alternative to aggressive aggression.
+
+If you're feeling slighted, it can be a happy medium between letting the issue go but feeling resentful and making your feelings known during a screaming match. If you're used to engaging in healthy interpersonal relations, this plugin is for you.
 
 ## Contributing ##
 
